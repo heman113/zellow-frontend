@@ -1,7 +1,6 @@
 import { CircleUserRound } from 'lucide-react'
 import { DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from './ui/dropdown-menu'
 import { DropdownMenu } from './ui/dropdown-menu'
-import React from 'react'
 import { useAuth0 } from '@auth0/auth0-react'
 import { Link } from 'react-router-dom'
 import { Separator } from './ui/separator'
